@@ -1,0 +1,68 @@
+{
+  "datasets": {
+    "pipe_formulas": {
+      "v": 1,
+      "count": 462
+    },
+    "md_formulas": {
+      "v": 1,
+      "count": 486
+    },
+    "math_formulas": {
+      "v": 1,
+      "count": 376
+    },
+    "es_formulas": {
+      "v": 1,
+      "count": 251
+    },
+    "conversions_and_constants": {
+      "v": 1,
+      "count": 247
+    },
+    "pipe_terms": {
+      "v": 1,
+      "count": 1431
+    },
+    "md_terms": {
+      "v": 1,
+      "count": 1697
+    },
+    "math_terms": {
+      "v": 1,
+      "count": 601
+    },
+    "es_terms": {
+      "v": 1,
+      "count": 481
+    },
+    "me_laws": {
+      "v": 1,
+      "count": 494
+    },
+    "standards": {
+      "v": 1,
+      "count": 269
+    },
+    "pipe_problems": {
+      "v": 1,
+      "count": 512
+    },
+    "md_problems": {
+      "v": 1,
+      "count": 270
+    },
+    "math_problems": {
+      "v": 1,
+      "count": 318
+    },
+    "es_problems": {
+      "v": 1,
+      "count": 0
+    },
+    "ibong_tiririt": {
+      "v": 1,
+      "count": 299
+    }
+  }
+}
